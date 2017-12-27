@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(msg)
-  if msg.is_lower?
+  if !msg.is_upper?
     return "HUH?! SPEAK UP, SONNY!"
   end
 end
