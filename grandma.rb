@@ -4,16 +4,6 @@ def speak_to_grandma(msg)
     if msg == "I LOVE YOU GRANDMA!"
       puts "I LOVE YOU TOO PUMPKIN!"
     end
-    
-  end
-
-
-  if msg == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
-  elsif msg == "Hi Nana, how are you?"
-    puts ""
-  elsif msg ==
-
 
   end
 end
